@@ -1,1 +1,1 @@
-패스트 캠퍼스
+Fast-Campus API 
